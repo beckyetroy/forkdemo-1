@@ -6,7 +6,10 @@ class Product {
         this.quantityInStock = initialQuantity
         this.reorderLevel = reorderLevel
     }
+
+
 }
+
 
 
 module.exports = Product;
